@@ -30,7 +30,7 @@ public class Main {
         System.out.println(isVocale('a'));
         System.out.println("ESERCIZIO 4");
         System.out.println(tipoTriangolo(3,3,3));
-        System.out.println("ESERCIZIO 5");
+        System.out.println("ESERCIZIO 5"); 
         System.out.println(giornoSettimana(300));
         System.out.println("ESERCIZIO 6");
         System.out.println(ordineDecrescente(50,35));
